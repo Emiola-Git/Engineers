@@ -1,6 +1,10 @@
 # Data Professionals Report
 
-![Image](https://github.com/user-attachments/assets/2f19eb46-fdfc-4a52-b6ea-5bb663016e76)
-![Image](https://github.com/user-attachments/assets/f9e0df5b-795e-40ab-ab30-738a47c70c34)
+
+![Image](https://github.com/user-attachments/assets/7ca98d25-7b5f-4ae6-80a7-2b2d9126635a)
+
+![Image](https://github.com/user-attachments/assets/06ec36a8-88ff-4e67-b269-35ce6a485220)
+
+
 ## DATA LINK
 [DataEngineerSalaries.csv](https://github.com/user-attachments/files/18113291/DataEngineerSalaries.csv)
